@@ -1,37 +1,9 @@
 # K Market Express - Frontend
 
-Frontend construido con **TypeScript**, **React** y **Vite**.
+Este es el repositorio del frontend para K Market Express.
+El proyecto se encuentra activo y disponible para su visualización en:
 
-## Instalación
+[https://app.netlify.com/](https://k-market-express.netlify.app/)
 
-\`\`\`bash
-npm install
-\`\`\`
-
-## Ejecutar en desarrollo
-
-\`\`\`bash
-npm run dev
-\`\`\`
-
-La aplicación estará disponible en: `http://localhost:5173`
-
-## Build para producción
-
-\`\`\`bash
-npm run build
-\`\`\`
-
-## Preview de producción
-
-\`\`\`bash
-npm run preview
-\`\`\`
-
-## Estructura del proyecto
-
-- `src/App.tsx` - Componente principal
-- `src/App.css` - Estilos
-- `src/types.ts` - Tipos TypeScript
-- `src/api.ts` - Llamadas a API
-- `src/main.tsx` - Punto de entrada
+### Integrantes
+Ricardo Gil, Lucas Cardenas, Diego Ortega, Benjamin Acevedo
