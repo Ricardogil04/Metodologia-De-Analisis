@@ -1,2 +1,3 @@
-ICI325-METODOLOGIA-DE-ANALISIS-KmarketExpress 
-integrantes: ricardo gil,lucas cardenas,diego ortega, benjamin acevedo
+# ICI325-METODOLOGIA-DE-ANALISIS-KmarketExpress
+
+Grupo KmarketExpress realizado por: Ricardo Gil, Lucas Cardenas, Diego Ortega, Benjamin Acevedo
